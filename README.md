@@ -48,5 +48,12 @@ allowing users to observe real-time sensor data and system status.
 
 ## Documentation
 
-Detailed documentation, circuit diagrams, firmware, and experimental
-results will be added progressively to this repository.
+The complete project report is available below:
+
+- 📄 **Project Report:** [IoT Enabled Irrigation System – Project Report](docs/project-report.pdf)
+
+The report includes:
+- System architecture and block diagrams
+- Hardware and software implementation
+- Experimental results and discussion
+- Applications and future scope
