@@ -44,6 +44,11 @@ allowing users to observe real-time sensor data and system status.
 - Embedded C / Arduino (C++)
 - IoT platform for remote monitoring
 
+### Firmware Structure
+
+- `software/esp8266/` – Wi-Fi communication and sensor data transmission
+- `software/arduino-uno/` – Irrigation control logic (to be added)
+
 ---
 
 ## Documentation
